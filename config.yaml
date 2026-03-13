@@ -30,6 +30,10 @@ keywords:
   #   filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
   "Few-Shot IL & VLA":
     filters: ["Few-Shot Imitation Learning", "Few Shot Imitation Learning", "Few-Shot Vision-Language-Action", "Few Shot Vision Language Action", "Few-Shot VLA", "Few Shot VLA"]
+  "Reinforcement Learning IL & VLA":
+    filters: ["Reinforcement Learning for Vision-Language-Action", "Reinforcement Learning Vision-Language-Action", "RL for VLA", "VLA Reinforcement Learning", "Imitation Learning and Reinforcement Learning", "Reinforcement Learning from Demonstrations", "Reinforcement Fine-Tuning Vision-Language-Action"]
+  
+  
   # "Robotic Navigation":
   #   filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
 #   "DA & DG":

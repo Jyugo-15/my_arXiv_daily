@@ -1602,3 +1602,58 @@ layout: default
 |**2021-05-04**|**OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning**|Anurag Ajay et.al.|[2010.13611](https://arxiv.org/abs/2010.13611)|null|
 |**2018-10-08**|**Task-Embedded Control Networks for Few-Shot Imitation Learning**|Stephen James et.al.|[1810.03237](https://arxiv.org/abs/1810.03237)|**[link](https://github.com/stepjam/PyRep)**|
 
+## Reinforcement Learning IL & VLA
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning**|Jiaheng Hu et.al.|[2603.11653](https://arxiv.org/abs/2603.11653)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-03-09**|**Oracle-Guided Soft Shielding for Safe Move Prediction in Chess**|Prajit T Rajendran et.al.|[2603.08506](https://arxiv.org/abs/2603.08506)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-02-28**|**TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation**|Qinwen Xu et.al.|[2602.09023](https://arxiv.org/abs/2602.09023)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-01-15**|**Combinatorial Optimization Augmented Machine Learning**|Maximilian Schiffer et.al.|[2601.10583](https://arxiv.org/abs/2601.10583)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2025-12-28**|**A Note on Hybrid Online Reinforcement and Imitation Learning for LLMs: Formulations and Algorithms**|Yingru Li et.al.|[2512.23097](https://arxiv.org/abs/2512.23097)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2025-12-16**|**Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model**|Zhaofeng Hu et.al.|[2512.14031](https://arxiv.org/abs/2512.14031)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2025-11-24**|**ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay**|Gengyuan Zhang et.al.|[2511.19033](https://arxiv.org/abs/2511.19033)|**[link](https://github.com/DjangoJungle/Awesome-Learning-from-Experience)**|
+|**2025-11-20**|**LAOF: Robust Latent Action Learning with Optical Flow Constraints**|Xizhou Bu et.al.|[2511.16407](https://arxiv.org/abs/2511.16407)|**[link](https://github.com/YU-deep/Awesome-Latent-Space)**|
+|**2026-02-07**|**RLinf-VLA: A Unified and Efficient Framework for Reinforcement Learning of Vision-Language-Action Models**|Hongzhi Zang et.al.|[2510.06710](https://arxiv.org/abs/2510.06710)|**[link](https://huggingface.co/models/RLinf/RLinf-math-7B)**|
+|**2025-09-30**|**VLA Model Post-Training via Action-Chunked PPO and Self Behavior Cloning**|Si-Cheng Wang et.al.|[2509.25718](https://arxiv.org/abs/2509.25718)|**[link](https://github.com/AoqunJin/Awesome-VLA-Post-Training)**|
+|**2025-09-29**|**Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training**|Rushuai Yang et.al.|[2509.19752](https://arxiv.org/abs/2509.19752)|**[link](https://github.com/YuZhaoshu/Efficient-VLAs-Survey)**|
+|**2025-09-22**|**FinFlowRL: An Imitation-Reinforcement Learning Framework for Adaptive Stochastic Control in Finance**|Yang Li et.al.|[2509.17964](https://arxiv.org/abs/2509.17964)|null|
+|**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Haozhan Li et.al.|[2509.09674](https://arxiv.org/abs/2509.09674)|null|
+|**2025-08-14**|**Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning**|Wenlong Liang et.al.|[2508.10399](https://arxiv.org/abs/2508.10399)|null|
+|**2025-10-11**|**Reducing Cognitive Overhead in Tool Use via Multi-Small-Agent Reinforcement Learning**|Dayu Wang et.al.|[2508.08882](https://arxiv.org/abs/2508.08882)|null|
+|**2025-10-20**|**DARIL: When Imitation Learning outperforms Reinforcement Learning in Surgical Action Planning**|Maxence Boels et.al.|[2507.05011](https://arxiv.org/abs/2507.05011)|**[link](https://github.com/maxboels/DARIL)**|
+|**2026-02-25**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Zhao Jin et.al.|[2506.04941](https://arxiv.org/abs/2506.04941)|**[link](https://huggingface.co/datasets/x-humanoid-robomind/ArtVIP)**|
+|**2025-05-21**|**Learning-based Autonomous Oversteer Control and Collision Avoidance**|Seokjun Lee et.al.|[2505.15275](https://arxiv.org/abs/2505.15275)|**[link](https://github.com/aramisjiang-wq/EmbodiedPulse2026)**|
+|**2025-05-15**|**Training People to Reward Robots**|Endong Sun et.al.|[2505.10151](https://arxiv.org/abs/2505.10151)|**[link](https://github.com/DoongLi/IROS2025-Paper-List)**|
+|**2025-04-26**|**RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning**|Haoran Geng et.al.|[2504.18904](https://arxiv.org/abs/2504.18904)|**[link](https://huggingface.co/datasets/RoboVerseOrg/roboverse_data)**|
+|**2025-04-20**|**Exposing the Copycat Problem of Imitation-based Planner: A Novel Closed-Loop Simulator, Causal Benchmark and Joint IL-RL Baseline**|Hui Zhou et.al.|[2504.14709](https://arxiv.org/abs/2504.14709)|**[link](https://github.com/aramisjiang-wq/EmbodiedPulse2026)**|
+|**2025-07-14**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](https://arxiv.org/abs/2504.08438)|**[link](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)**|
+|**2025-04-20**|**Robust Quantum Control using Reinforcement Learning from Demonstration**|Shengyong Li et.al.|[2503.21085](https://arxiv.org/abs/2503.21085)|**[link](https://github.com/cyrus-baker/RlfdQcontrol)**|
+|**2025-03-19**|**Robotic Paper Wrapping by Learning Force Control**|Hiroki Hanai et.al.|[2503.15685](https://arxiv.org/abs/2503.15685)|null|
+|**2025-04-23**|**SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey**|Joohwan Seo et.al.|[2503.09829](https://arxiv.org/abs/2503.09829)|null|
+|**2025-03-05**|**Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**|Elahe Delavari et.al.|[2503.01676](https://arxiv.org/abs/2503.01676)|null|
+|**2025-03-03**|**Improving Retrospective Language Agents via Joint Policy Gradient Optimization**|Xueyang Feng et.al.|[2503.01490](https://arxiv.org/abs/2503.01490)|null|
+|**2025-02-23**|**NatSGLD: A Dataset with Speech, Gesture, Logic, and Demonstration for Robot Learning in Natural Human-Robot Interaction**|Snehesh Shrestha et.al.|[2502.16718](https://arxiv.org/abs/2502.16718)|null|
+|**2025-11-25**|**Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models**|Yinlam Chow et.al.|[2412.15287](https://arxiv.org/abs/2412.15287)|**[link](https://github.com/Dereck0602/Awesome_Test_Time_LLMs)**|
+|**2024-10-08**|**FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance**|Ruocheng Wang et.al.|[2410.05791](https://arxiv.org/abs/2410.05791)|**[link](https://github.com/Jianqiuer/Awesome6DPoseEstimation)**|
+|**2025-06-08**|**A Learning-based Quadcopter Controller with Extreme Adaptation**|Dingqi Zhang et.al.|[2409.12949](https://arxiv.org/abs/2409.12949)|**[link](https://github.com/muellerlab/xadapt_ctrl)**|
+|**2024-08-13**|**Personalized Dynamic Difficulty Adjustment -- Imitation Learning Meets Reinforcement Learning**|Ronja Fuchs et.al.|[2408.06818](https://arxiv.org/abs/2408.06818)|**[link](https://github.com/ronjafuchs/ICE_AI)**|
+|**2024-07-29**|**Evolution of cooperation in the public goods game with Q-learning**|Guozhong Zheng et.al.|[2407.19851](https://arxiv.org/abs/2407.19851)|**[link](https://github.com/zwq961123/paper_share)**|
+|**2024-07-26**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](https://arxiv.org/abs/2407.18219)|**[link](https://github.com/DSXiangLi/DecryptPrompt)**|
+|**2024-09-08**|**Green Screen Augmentation Enables Scene Generalisation in Robotic Manipulation**|Eugene Teoh et.al.|[2407.07868](https://arxiv.org/abs/2407.07868)|**[link](https://huggingface.co/datasets/eugeneteoh/greenaug)**|
+|**2024-09-16**|**Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**|Elahe Delavari et.al.|[2407.07684](https://arxiv.org/abs/2407.07684)|**[link](https://github.com/Rook1echen/arxiv-daily)**|
+|**2024-10-02**|**"Give Me an Example Like This": Episodic Active Reinforcement Learning from Demonstrations**|Muhan Hou et.al.|[2406.03069](https://arxiv.org/abs/2406.03069)|null|
+|**2024-04-02**|**Imitation Game: A Model-based and Imitation Learning Deep Reinforcement Learning Hybrid**|Eric MSP Veith et.al.|[2404.01794](https://arxiv.org/abs/2404.01794)|null|
+|**2024-03-02**|**Continuous Mean-Zero Disagreement-Regularized Imitation Learning (CMZ-DRIL)**|Noah Ford et.al.|[2403.01059](https://arxiv.org/abs/2403.01059)|null|
+|**2024-04-29**|**Symmetry-aware Reinforcement Learning for Robotic Assembly under Partial Observability with a Soft Wrist**|Hai Nguyen et.al.|[2402.18002](https://arxiv.org/abs/2402.18002)|null|
+|**2023-12-10**|**Language-Conditioned Semantic Search-Based Policy for Robotic Manipulation Tasks**|Jannik Sheikh et.al.|[2312.05925](https://arxiv.org/abs/2312.05925)|null|
+|**2024-03-18**|**RLIF: Interactive Imitation Learning as Reinforcement Learning**|Jianlan Luo et.al.|[2311.12996](https://arxiv.org/abs/2311.12996)|**[link](https://github.com/yingchengyang/Reinforcement-Learning-Papers)**|
+|**2023-10-30**|**Deep Learning for Visual Navigation of Underwater Robots**|M. Sunbeam et.al.|[2310.19495](https://arxiv.org/abs/2310.19495)|**[link](https://github.com/XJW163/wordlearn)**|
+|**2023-10-13**|**Progressively Efficient Learning**|Ruijie Zheng et.al.|[2310.13004](https://arxiv.org/abs/2310.13004)|**[link](https://github.com/himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning)**|
+|**2025-10-31**|**RObotic MAnipulation Network (ROMAN) -- Hybrid Hierarchical Learning for Solving Complex Sequential Tasks**|Eleftherios Triantafyllidis et.al.|[2307.00125](https://arxiv.org/abs/2307.00125)|**[link](https://github.com/etriantafyllidis/ROMAN_Data)**|
+|**2023-10-30**|**ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling**|Quanyi Li et.al.|[2306.12241](https://arxiv.org/abs/2306.12241)|**[link](https://github.com/metadriverse/scenarionet)**|
+|**2023-06-09**|**Embodied Executable Policy Learning with Language-based Scene Summarization**|Jielin Qiu et.al.|[2306.05696](https://arxiv.org/abs/2306.05696)|**[link](https://github.com/haoranD/Awesome-Embodied-AI)**|
+|**2023-02-10**|**Visual Imitation Learning with Patch Rewards**|Minghuan Liu et.al.|[2302.00965](https://arxiv.org/abs/2302.00965)|null|
+|**2023-02-02**|**Synthesizing Physical Character-Scene Interactions**|Mohamed Hassan et.al.|[2302.00883](https://arxiv.org/abs/2302.00883)|null|
+|**2023-01-13**|**Adaptive Neural Networks Using Residual Fitting**|Noah Ford et.al.|[2301.05744](https://arxiv.org/abs/2301.05744)|null|
+
