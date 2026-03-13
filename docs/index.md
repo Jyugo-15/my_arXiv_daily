@@ -1571,3 +1571,34 @@ layout: default
 |**2025-12-04**|**TRINITY: An Evolved LLM Coordinator**|Jinglue Xu et.al.|[2512.04695](https://arxiv.org/abs/2512.04695)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-12-03**|**Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning**|Franki Nguimatsia Tiofack et.al.|[2512.03973](https://arxiv.org/abs/2512.03973)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 
+## Few-Shot IL & VLA
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Flow-Enabled Generalization to Human Demonstrations in Few-Shot Imitation Learning**|Runze Tang et.al.|[2602.10594](https://arxiv.org/abs/2602.10594)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-02-07**|**VGAS: Value-Guided Action-Chunk Selection for Few-Shot Vision-Language-Action Adaptation**|Changhua Xu et.al.|[2602.07399](https://arxiv.org/abs/2602.07399)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2025-09-23**|**Self-evolved Imitation Learning in Simulated World**|Yifan Ye et.al.|[2509.19460](https://arxiv.org/abs/2509.19460)|**[link](https://github.com/aramisjiang-wq/EmbodiedPulse2026)**|
+|**2025-09-01**|**Data Retrieval with Importance Weights for Few-Shot Imitation Learning**|Amber Xie et.al.|[2509.01657](https://arxiv.org/abs/2509.01657)|**[link](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf)**|
+|**2025-09-07**|**COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning**|Sateesh Kumar et.al.|[2508.01131](https://arxiv.org/abs/2508.01131)|**[link](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf)**|
+|**2025-05-09**|**Adaptive Wiping: Adaptive contact-rich manipulation through few-shot imitation learning with Force-Torque feedback and pre-trained object representations**|Chikaha Tsuji et.al.|[2505.06451](https://arxiv.org/abs/2505.06451)|**[link](https://github.com/wadeKeith/Awesome-Embodied-AI)**|
+|**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Mingchen Song et.al.|[2504.15517](https://arxiv.org/abs/2504.15517)|**[link](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)**|
+|**2025-10-10**|**Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning**|Juntao Ren et.al.|[2501.06994](https://arxiv.org/abs/2501.06994)|**[link](https://github.com/showlab/Awesome-Video-Diffusion)**|
+|**2024-12-10**|**Meta-Controller: Few-Shot Imitation of Unseen Embodiments and Tasks in Continuous Control**|Seongwoong Cho et.al.|[2412.12147](https://arxiv.org/abs/2412.12147)|**[link](https://github.com/SeongwoongCho/meta-controller)**|
+|**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](https://arxiv.org/abs/2410.02751)|**[link](https://github.com/dunnolab/awesome-in-context-rl)**|
+|**2024-10-11**|**FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning**|Li-Heng Lin et.al.|[2408.16944](https://arxiv.org/abs/2408.16944)|null|
+|**2025-09-18**|**ReMoBot: Retrieval-Based Few-Shot Imitation Learning for Mobile Manipulation with Vision Foundation Models**|Yuying Zhang et.al.|[2408.15919](https://arxiv.org/abs/2408.15919)|null|
+|**2025-05-21**|**VITAL: Interactive Few-Shot Imitation Learning via Visual Human-in-the-Loop Corrections**|Hamidreza Kasaei et.al.|[2407.21244](https://arxiv.org/abs/2407.21244)|null|
+|**2024-09-11**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840](https://arxiv.org/abs/2407.15840)|null|
+|**2024-04-25**|**Leveraging Pretrained Latent Representations for Few-Shot Imitation Learning on a Dexterous Robotic Hand**|Davide Liconti et.al.|[2404.16483](https://arxiv.org/abs/2404.16483)|null|
+|**2024-03-20**|**Visual Imitation Learning of Task-Oriented Object Grasping and Rearrangement**|Yichen Cai et.al.|[2403.14000](https://arxiv.org/abs/2403.14000)|**[link](https://github.com/ryanbgriffiths/IROS2024PaperList)**|
+|**2024-06-06**|**PRISE: LLM-Style Sequence Compression for Learning Temporal Action Abstractions in Control**|Ruijie Zheng et.al.|[2402.10450](https://arxiv.org/abs/2402.10450)|**[link](https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey)**|
+|**2024-05-23**|**Premier-TACO is a Few-Shot Policy Learner: Pretraining Multitask Representation via Temporal Action-Driven Contrastive Loss**|Ruijie Zheng et.al.|[2402.06187](https://arxiv.org/abs/2402.06187)|**[link](https://github.com/yingchengyang/Reinforcement-Learning-Papers)**|
+|**2025-01-27**|**Multi-Agent Behavior Retrieval: Retrieval-Augmented Policy Training for Cooperative Push Manipulation by Mobile Robots**|So Kuroki et.al.|[2312.02008](https://arxiv.org/abs/2312.02008)|**[link](https://github.com/ryanbgriffiths/IROS2024PaperList)**|
+|**2023-06-23**|**Comparing the Efficacy of Fine-Tuning and Meta-Learning for Few-Shot Policy Imitation**|Massimiliano Patacchiola et.al.|[2306.13554](https://arxiv.org/abs/2306.13554)|**[link](https://github.com/mpatacchiola/imujoco)**|
+|**2023-05-13**|**Behavior Retrieval: Few-Shot Imitation Learning by Querying Unlabeled Datasets**|Maximilian Du et.al.|[2304.08742](https://arxiv.org/abs/2304.08742)|**[link](https://github.com/LucasCJYSDL/DGMs-for-Offline-Policy-Learning)**|
+|**2023-07-25**|**K-VIL: Keypoints-based Visual Imitation Learning**|Jianfeng Gao et.al.|[2209.03277](https://arxiv.org/abs/2209.03277)|null|
+|**2022-02-19**|**Transfering Hierarchical Structure with Dual Meta Imitation Learning**|Chongkai Gao et.al.|[2201.11981](https://arxiv.org/abs/2201.11981)|null|
+|**2021-12-04**|**Stage Conscious Attention Network (SCAN) : A Demonstration-Conditioned Policy for Few-Shot Imitation**|Jia-Fong Yeh et.al.|[2112.02278](https://arxiv.org/abs/2112.02278)|null|
+|**2021-05-04**|**OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning**|Anurag Ajay et.al.|[2010.13611](https://arxiv.org/abs/2010.13611)|null|
+|**2018-10-08**|**Task-Embedded Control Networks for Few-Shot Imitation Learning**|Stephen James et.al.|[1810.03237](https://arxiv.org/abs/1810.03237)|**[link](https://github.com/stepjam/PyRep)**|
+
